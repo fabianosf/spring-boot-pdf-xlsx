@@ -6,9 +6,9 @@
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Java™ Platform, Standard       Edition Development Kit 
 * [Spring Boot](https://spring.io/projects/spring-boot) - Framework to ease the bootstrapping and development of new Spring   A pplications
 * [MySQL](https://dev.mysql.com/) - Open-Source Relational Database Management System
-* [git](https://git-scm.com/) - Free and Open-Source distributed version control system  
-* [itext](https://itextpdf.com/en) - PDF Toolkit for PDF generation, PDF programming, handling & manipulation.
-* [poi-ooxml](https://poi.apache.org/) - Java API To Access Microsoft Excel Format Files
+* [Git](https://git-scm.com/) - Free and Open-Source distributed version control system  
+* [Itext](https://itextpdf.com/en) - PDF Toolkit for PDF generation, PDF programming, handling & manipulation.
+* [Ooi-ooxml](https://poi.apache.org/) - Java API To Access Microsoft Excel Format Files
 
 ## Packages
 - [x] Spring Boot
